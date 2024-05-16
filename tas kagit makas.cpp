@@ -1,7 +1,9 @@
 #include <iostream>
 #include <ctime>
 #include <string>
+#include "game.h"
 
+//hata veriyo bitmedi
 char secim_yap();
 char computer_secim();
 void secim_goster(char secim);
