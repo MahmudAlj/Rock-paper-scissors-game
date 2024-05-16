@@ -1,7 +1,8 @@
-
 // game.h
 #ifndef GAME_H_
 #define GAME_H_
+
+#include <iostream>
 
 namespace game {
     // 3 olan kazanır yapıyorum(pc 3 olmasına ragmen cıkmıyo)
